@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-labelledby="title desc">
+  <title id="title">CLI Speed Reader</title>
+  <desc id="desc">Circular command-line speed reader emblem with a terminal chevron, flowing word bars and a red RSVP fixation point.</desc>
+  <g fill="none" stroke="#20262e" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="128" cy="128" r="116"/>
+    <path d="M48 105 L70 128 L48 151"/>
+    <path d="M83 151 H106"/>
+    <path d="M91 87 H116 M140 87 H173"/>
+    <path d="M91 128 H110 M146 128 H205"/>
+    <path d="M91 169 H116 M140 169 H173"/>
+  </g>
+  <circle cx="128" cy="128" r="8" fill="#e5484d"/>
+</svg>

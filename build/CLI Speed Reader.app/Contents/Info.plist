@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleExecutable</key><string>RSVP-ORP</string>
+<key>CFBundleIdentifier</key><string>com.larryseyer.rsvp-orp</string>
+<key>CFBundleName</key><string>CLI Speed Reader</string>
+<key>CFBundleDisplayName</key><string>CLI Speed Reader</string>
+<key>CFBundleIconFile</key><string>AppIcon.icns</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>0.1</string>
+<key>LSMinimumSystemVersion</key><string>13.0</string>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSAppleEventsUsageDescription</key><string>Read text from the Terminal tab you choose for the floating RSVP reader.</string>
+</dict></plist>

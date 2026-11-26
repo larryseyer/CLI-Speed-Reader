@@ -1,0 +1,38 @@
+# Ignore everything except the source and distributable app below.
+*
+!/.gitignore
+!/README.md
+!/Info.plist
+!/Sources/
+!/Sources/*.swift
+!/Tests/
+!/Tests/*.swift
+!/Tests/claude-demo.jsonl
+!/scripts/
+!/scripts/*.sh
+!/images/
+!/images/cli-speed-reader.png
+!/images/cli-speed-reader.icns
+!/images/cli-speed-reader.svg
+!/build/
+!/build/CLI Speed Reader.app/
+!/build/CLI Speed Reader.app/Contents/
+!/build/CLI Speed Reader.app/Contents/Info.plist
+!/build/CLI Speed Reader.app/Contents/MacOS/
+!/build/CLI Speed Reader.app/Contents/MacOS/RSVP-ORP
+!/build/CLI Speed Reader.app/Contents/Resources/
+!/build/CLI Speed Reader.app/Contents/Resources/AppIcon.icns
+!/build/CLI Speed Reader.app/Contents/_CodeSignature/
+!/build/CLI Speed Reader.app/Contents/_CodeSignature/CodeResources
+
+# Never include macOS metadata or credential files, even in allowed folders.
+.DS_Store
+._*
+.env*
+*.pem
+*.key
+*.p12
+*.pfx
+*.keychain*
+credentials*
+secrets*

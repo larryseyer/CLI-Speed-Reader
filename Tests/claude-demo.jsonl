@@ -1,0 +1,2 @@
+{"type":"assistant","uuid":"demo-reply","message":{"role":"assistant","content":[{"type":"text","text":"This floating reader keeps the red focal letter in one place. You can change the reading speed at any time. Select a word below to start reading from that position again."}]}}
+{"type":"user","uuid":"demo-user","message":{"role":"user","content":"This user prompt must never appear in assistant-only mode."}}
